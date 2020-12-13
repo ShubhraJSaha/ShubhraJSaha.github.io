@@ -4,3 +4,8 @@ Hello! Welcome to my homepage.
 I am a postdoctoral associate in the Department of Biological Engineering at Massachusetts Institute of Technology (MIT). I am a member of antimalarial drug discovery team  supervised by Prof. Jacquin C. Niles, and my current research involves the use of functional genetics, and high throughput chemical screening towards a quick and efficient discovery of novel antimalarial chemotypes to fight the drug resistance among malaria parasites.
 
 I received my M.Sc. degree in Chemistry (specialization in organic chemistry) in 2013, and my Ph.D. degree in Chemistry in 2019 from Jadavpur University (Jadavpur, WB, India). From 2013 to 2019, I carried out my doctoral thesis work under the supervision of Prof. (Dr.) Uday Bandyopadhyay, where I was involved in the design and synthesis of novel small molecules and their biological evaluation towards the discovery of new antimalarials.
+
+[Link](https://www.linkedin.com/in/shubhra-jyoti-saha-a48451100/) 
+[Link](https://orcid.org/my-orcid) 
+[Link](https://scholar.google.co.in/citations?hl=en&pli=1&user=ZfIVJZQAAAAJ) 
+[Link](https://www.researchgate.net/profile/Shubhra_Saha) 
