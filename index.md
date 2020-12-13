@@ -23,3 +23,6 @@ I received my M.Sc. degree in Chemistry (specialization in organic chemistry), a
 - High-throughput Screening of drug library
 - Biophysical assays to establish drug-target gene interaction
 - Investigate the phenotypic changes
+
+### Publications
+```2020
