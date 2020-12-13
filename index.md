@@ -1,4 +1,4 @@
-# Header 1 About me
+# About me
 Hello! Welcome to my homepage.
 
 I am a postdoctoral associate in the Department of Biological Engineering at Massachusetts Institute of Technology (MIT). I am a member of antimalarial drug discovery team  supervised by Prof. Jacquin C. Niles, and my current research involves the use of functional genetics, and high throughput chemical screening towards a quick and efficient discovery of novel antimalarial chemotypes to fight the drug resistance among malaria parasites.
