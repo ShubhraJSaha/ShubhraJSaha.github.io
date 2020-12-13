@@ -1,3 +1,5 @@
+![Image](https://avatars1.githubusercontent.com/u/75918395?s=460&u=0adcdae780ebd3585b57bb9a46eaef35887c969a&v=4)
+
 # About me
 Hello! Welcome to my homepage.
 
@@ -12,4 +14,9 @@ I received my M.Sc. degree in Chemistry (specialization in organic chemistry) in
 - [Google Scholar](https://scholar.google.co.in/citations?hl=en&pli=1&user=ZfIVJZQAAAAJ)
 - [ResearchGate](https://www.researchgate.net/profile/Shubhra_Saha)
 
-![Image](https://avatars1.githubusercontent.com/u/75918395?s=460&u=0adcdae780ebd3585b57bb9a46eaef35887c969a&v=4)
+# Research Interests
+
+- Validation of essential genes in the _Plasmodium_ genome
+- High-throughput Screening of drug library
+- Biophysical assays to establish drug-target gene interaction
+- Investigate the phenotypic changes
