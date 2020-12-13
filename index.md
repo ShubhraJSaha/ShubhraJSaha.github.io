@@ -26,3 +26,4 @@ I received my M.Sc. degree in Chemistry (specialization in organic chemistry), a
 
 ### Publications
 ```2020
+[link](url){:target="_blank"}
