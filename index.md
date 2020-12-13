@@ -5,7 +5,7 @@ I am a postdoctoral associate in the Department of Biological Engineering at Mas
 
 I received my M.Sc. degree in Chemistry (specialization in organic chemistry) in 2013, and my Ph.D. degree in Chemistry in 2019 from Jadavpur University (Jadavpur, WB, India). From 2013 to 2019, I carried out my doctoral thesis work under the supervision of Prof. (Dr.) Uday Bandyopadhyay, where I was involved in the design and synthesis of novel small molecules and their biological evaluation towards the discovery of new antimalarials.
 
-[Link](https://www.linkedin.com/in/shubhra-jyoti-saha-a48451100/) 
-[Link](https://orcid.org/my-orcid) 
-[Link](https://scholar.google.co.in/citations?hl=en&pli=1&user=ZfIVJZQAAAAJ) 
-[Link](https://www.researchgate.net/profile/Shubhra_Saha) 
+[Linkedin](https://www.linkedin.com/in/shubhra-jyoti-saha-a48451100/) 
+[Orcid](https://orcid.org/my-orcid) 
+[Google Scholar](https://scholar.google.co.in/citations?hl=en&pli=1&user=ZfIVJZQAAAAJ) 
+[researchgate](https://www.researchgate.net/profile/Shubhra_Saha) 
