@@ -1,4 +1,4 @@
-![Image](https://avatars1.githubusercontent.com/u/75918395?s=460&u=0adcdae780ebd3585b57bb9a46eaef35887c969a&v=4)
+![GitHub Logo](/images/logo.png)
 
 # About me
 Hello! Welcome to my homepage.
